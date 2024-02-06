@@ -16,7 +16,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlPbTKxJRCI?si=9FIUBdPYNuHycEeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p style="font-size:100px">&#129409;</p>
 
-[FYA BUN![Fya Bun](https://babaras.co.uk/fya_bun/assets/fya-bun.png "Fya Bun")](https://babaras.co.uk/fya-bun)
+[FYA BUN![Fya Bun](https://babaras.co.uk/fya_bun/assets/fya-bun.png "Fya Bun")](https://babaras.co.uk/fya_bun)
 
 
 
