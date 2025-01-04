@@ -1,3 +1,5 @@
 # REGRETS OF THE PAST
 
-oogla boogla
+## oogla boogla
+allowing myself to be influenced by someone orible
+
